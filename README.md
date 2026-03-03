@@ -1,4 +1,4 @@
-# 👨‍💻 Mousa | AI & Software Development Portfolio
+# 👨‍💻 Moussa | AI & Software Development Portfolio
 
 Welcome to my personal portfolio repository.
 
