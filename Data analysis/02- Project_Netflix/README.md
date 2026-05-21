@@ -1,70 +1,52 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "30fb1534",
-   "metadata": {},
-   "source": [
-    "# Netflix Data Analysis Project\n",
-    "\n",
-    "## Overview\n",
-    "This project analyzes Netflix movies and TV shows using Python and data analysis libraries.  \n",
-    "The goal is to explore trends, categories, durations, release years, and content distribution on Netflix.\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Tools & Libraries Used\n",
-    "- Python\n",
-    "- Pandas\n",
-    "- Matplotlib\n",
-    "- Seaborn\n",
-    "- Jupyter Notebook\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Project Features\n",
-    "- Data cleaning and preprocessing\n",
-    "- Exploring Netflix content types\n",
-    "- Analyzing release years\n",
-    "- Visualizing movie durations\n",
-    "- Count plots and line plots\n",
-    "- Data visualization using Seaborn and Matplotlib\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Dataset\n",
-    "The dataset contains information about Netflix movies and TV shows including:\n",
-    "- Title\n",
-    "- Type\n",
-    "- Genre\n",
-    "- Duration\n",
-    "- Release Year\n",
-    "- Country\n",
-    "- Rating\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## Sample Visualizations\n",
-    "- Count Plot for content types\n",
-    "- Line Plot for movie durations over years\n",
-    "- Scatter Plot analysis\n",
-    "- Distribution charts\n",
-    "\n",
-    "---\n",
-    "\n",
-    "## How to Run the Project\n",
-    "1. Clone the repository\n",
-    "2. Install required libraries:\n",
-    "```bash\n",
-    "pip install pandas matplotlib seaborn"
-   ]
-  }
- ],
- "metadata": {
-  "language_info": {
-   "name": "python"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# Netflix Data Analysis Project
+
+## Overview
+This project analyzes Netflix movies and TV shows using Python and data analysis libraries.  
+The goal is to explore trends, categories, durations, release years, and content distribution on Netflix.
+
+---
+
+## Tools & Libraries Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## Project Features
+- Data cleaning and preprocessing
+- Exploring Netflix content types
+- Analyzing release years
+- Visualizing movie durations
+- Count plots and line plots
+- Data visualization using Seaborn and Matplotlib
+
+---
+
+## Dataset
+The dataset contains information about Netflix movies and TV shows including:
+- Title
+- Type
+- Genre
+- Duration
+- Release Year
+- Country
+- Rating
+
+---
+
+## Sample Visualizations
+- Count Plot for content types
+- Line Plot for movie durations over years
+- Scatter Plot analysis
+- Distribution charts
+
+---
+
+## How to Run the Project
+1. Clone the repository
+2. Install required libraries:
+```bash
+pip install pandas matplotlib seaborn
