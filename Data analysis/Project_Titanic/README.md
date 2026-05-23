@@ -1,46 +1,42 @@
-🚢 Titanic Data Analysis Project
-📌 Overview
+# 🚢 Titanic Data Analysis Project
 
-This project is a data analysis study of the famous Titanic dataset.
-The main goal is to explore the data, clean it, and extract meaningful insights about passenger survival using Python and data analysis libraries.
+This project is a data analysis of the Titanic dataset. The goal is to explore the data, clean it, and extract meaningful insights about passenger survival using Python.
 
-🎯 Objectives
-Understand the structure of the dataset
-Handle missing values and clean the data
-Perform exploratory data analysis (EDA)
-Visualize relationships between features
-Identify factors that influenced passenger survival
-📊 Dataset
+## 📌 Project Objectives
+- Explore and understand the dataset
+- Handle missing values and clean the data
+- Perform exploratory data analysis (EDA)
+- Visualize data relationships
+- Identify key factors affecting survival
 
+## 📊 Dataset Description
 The dataset contains information about Titanic passengers such as:
+- Age
+- Gender
+- Passenger class (Pclass)
+- Fare
+- Embarked location
+- Survival status
 
-Age
-Gender
-Passenger class (Pclass)
-Fare
-Embarked location
-Survival status
-🛠️ Tools & Libraries Used
-Python 🐍
-Pandas
-NumPy
-Matplotlib
-Seaborn
-🔎 Key Steps
-Data Loading
-Data Cleaning (handling missing values)
-Exploratory Data Analysis (EDA)
-Data Visualization
-Insights Extraction
-📈 Key Insights
-Gender had a strong impact on survival rate
-Passengers in higher classes had better survival chances
-Age and family status also affected survival probability
-📷 Visualizations
+## 🛠️ Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-The project includes multiple plots such as:
+## 🔎 Steps Performed
+- Data loading
+- Data cleaning
+- Handling missing values
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Extracting insights
 
-Count plots
-Histograms
-Box plots
-Correlation analysis
+## 📈 Key Insights
+- Gender played a major role in survival rate
+- Passengers in higher classes had better survival chances
+- Age and family status also influenced survival probability
+
+## 🚀 How to Run
+Clone the repository:
